@@ -14,7 +14,7 @@ spec:
     spec:                       # Spec for the containers that will run inside the Pods
       containers:
       - name: polling-app-client
-        image: callicoder/polling-app-client:1.0.0
+        image: DimuthuK/polling-app-client:1.0.0
         imagePullPolicy: IfNotPresent
         ports:
           - name: http
