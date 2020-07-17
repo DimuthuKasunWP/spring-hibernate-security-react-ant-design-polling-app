@@ -2,10 +2,7 @@
 
 ![App Screenshot](screenshot.JPG)
 
-### Tutorials
 
-I've written a complete tutorial series for this application on my medium  Blog :-
-https://medium.com/@kasunwpdimuthu/full-stack-polling-application-with-spring-boot-spring-security-jwt-mysql-react-991af6ec2a1f
 
 
 + 
